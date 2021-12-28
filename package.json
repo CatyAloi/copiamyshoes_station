@@ -1,0 +1,14 @@
+{
+  "name": "amy_shoes_station",
+  "version": "1.0.0",
+  "description": "copia proyecto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caty Aloi V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
